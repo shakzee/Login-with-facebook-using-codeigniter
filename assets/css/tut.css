@@ -1,0 +1,28 @@
+#i_gz_x{
+    padding: 0px;
+}
+#i_gz_x li {
+    border: 1px solid #2885C7;
+    color: #2885C7;
+    font-size: 14px;
+    margin-right: 4px;
+    padding: 5px;
+}
+#i_gz_x li a {
+    color: red;
+}
+
+.inline {
+    display: inline;
+}
+
+.addphimg{
+    cursor:pointer;
+    font-size: 25px;
+    color: green;
+}
+.remphimg{
+    cursor:pointer;
+    font-size: 25px;
+    color: red;
+}
